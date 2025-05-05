@@ -4,7 +4,7 @@ Welcome! This is my central portfolio showcasing modular, stack-based projects a
 
 ---
 
-## 🟦 .NET Modules (.NET 8+ / C#)
+## 🟦 .NET Modules (.NET 8 / C#)
 
 |  🔢 | Module                        | Description                          | Link                                              |
 | :-: | :---------------------------- | :----------------------------------- | :------------------------------------------------ |
@@ -47,15 +47,48 @@ Welcome! This is my central portfolio showcasing modular, stack-based projects a
 
 ---
 
-## 🌐 Technologies Used
+## ⚙️ Technologies Used
 
-- **Languages:** C#, PHP, JavaScript
-- **Frameworks:** .NET 8, Laravel 11, Express
-- **UI:** Blazor, TailwindCSS, Vue
-- **Databases:** SQL Server, MySQL, MongoDB
-- **Tools:** Docker, GitHub Actions, NGINX
-- **Cloud:** Azure, DigitalOcean
+| Category       | Tools & Technologies                                                                 |
+|----------------|---------------------------------------------------------------------------------------|
+| **Languages**  | C#, PHP, JavaScript, TypeScript, SQL                                                 |
+| **Frameworks** | .NET 6/7/8, ASP.NET Core, Blazor, Laravel, Node.js, Express.js                       |
+| **UI**         | Blazor WebAssembly, Tailwind CSS, Bootstrap, Vue.js                                  |
+| **Database**   | SQL Server, MySQL, PostgreSQL, SQLite, MongoDB                                       |
+| **DevOps**     | Docker, GitHub Actions, Bash Scripts, CI/CD Pipelines                                |
+| **Servers**    | IIS, Apache, NGINX                                                                   |
+| **Cloud**      | Azure App Service, Azure SQL, Azure Static Web Apps, DigitalOcean                    |
+| **Security**   | JWT Auth, OAuth2, Laravel Sanctum, Secure Device Locking, Offline Deployment         |
+| **Monitoring** | MonPro (custom), Windows Event Viewer, Network Diagnostics Tools                     |
 
 ---
 
-> 📌 Each module repo has a detailed README with setup, architecture, and usage. This profile serves as your roadmap to explore them all.
+## 🛡️ Skills & Experience
+
+- 👨‍💻 **Developer @ Kosovo Security Force (FSK)**  
+  Designed and maintained secure internal software solutions for military-grade networks.
+
+- 🔐 **Offline Systems Expertise**  
+  Specialized in building **air-gapped**, **offline-first** tools and systems for restricted environments.
+
+- 🖥️ **Windows Server & IIS Administration**  
+  Hands-on experience with deployment, SSL configuration, routing, and Windows Server security hardening.
+
+- 🧩 **Modular Architecture**  
+  Skilled in organizing systems as reusable modules across stacks — .NET, Laravel, Node.js.
+
+- 🔄 **Secure API & Microservices**  
+  Proficient in REST API development with authentication, validation, and internal-only service orchestration.
+
+- ⚙️ **DevOps & Automation**  
+  Creating pipelines for **both online and offline CI/CD**, including containerized and script-based deployments.
+
+- 📊 **Custom Monitoring**  
+  Built tools like **MonPro** to monitor server health, SSL certificates, and network access without cloud reliance.
+
+- 📦 **ML & Smart Logic**  
+  Integrated basic machine learning models (e.g., HugoBot trading decisions) for data-driven automation.
+
+---
+
+> 🧭 **Tip:** Each repository linked above contains setup instructions, architecture diagrams, and usage guides. This profile README is your map — start exploring!
