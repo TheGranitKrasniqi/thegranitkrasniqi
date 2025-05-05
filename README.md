@@ -11,7 +11,7 @@ Welcome! This is my central portfolio showcasing modular, stack-based projects a
 | 1️⃣ | **Foundations C#**            | Console apps & data structures demos | [GitHub](https://github.com/deephugo/foundations-csharp) |
 | 2️⃣ | **Blazor Front‑End**          | Blazor WebAssembly SPA               | [GitHub](https://github.com/deephugo/blazor-frontend)    |
 | 3️⃣ | **.NET Back‑End**             | ASP.NET Core Web API + EF Core       | [GitHub](https://github.com/deephugo/dotnet-backend)     |
-| 4️⃣ | **Security & Auth**           | JWT & ASP.NET Identity               | [GitHub](https://github.com/deephugo/security-auth)      |
+| 4️⃣ | **Security & Auth**           | JWT, ASP.NET Identity, LDAP Auth     | [GitHub](https://github.com/deephugo/security-auth)      |
 | 5️⃣ | **Full‑Stack Integration**    | Blazor + ASP.NET Core Web API        | [GitHub](https://github.com/deephugo/fullstack-integration) |
 | 6️⃣ | **Performance & Testing**     | Caching, logging, unit tests         | [GitHub](https://github.com/deephugo/performance-tests)  |
 
@@ -38,15 +38,6 @@ Welcome! This is my central portfolio showcasing modular, stack-based projects a
 
 ---
 
-## 🛠 Other Tools & DevOps
-
-|  🔢 | Module                        | Description                          | Link                                              |
-| :-: | :---------------------------- | :----------------------------------- | :------------------------------------------------ |
-| 1️⃣ | **DevOps Automation**         | Docker, GitHub Actions, CI/CD        | [GitHub](https://github.com/deephugo/devops-automation)  |
-| 2️⃣ | **Binance HugoBot**           | Crypto trading bot with ML & CLI     | [GitHub](https://github.com/deephugo/HugoBot)            |
-
----
-
 ## ⚙️ Technologies Used
 
 | Category       | Tools & Technologies                                                                 |
@@ -57,19 +48,18 @@ Welcome! This is my central portfolio showcasing modular, stack-based projects a
 | **Database**   | SQL Server, MySQL, PostgreSQL, SQLite, MongoDB                                       |
 | **DevOps**     | Docker, GitHub Actions, Bash Scripts, CI/CD Pipelines                                |
 | **Servers**    | IIS, Apache, NGINX                                                                   |
-| **Cloud**      | Azure App Service, Azure SQL, Azure Static Web Apps, DigitalOcean                    |
-| **Security**   | JWT Auth, OAuth2, Laravel Sanctum, Secure Device Locking, Offline Deployment         |
+| **Security**   | JWT Auth, OAuth2, LDAP Authentication, Laravel Sanctum, Secure Device Locking        |
 | **Monitoring** | MonPro (custom), Windows Event Viewer, Network Diagnostics Tools                     |
 
 ---
 
 ## 🛡️ Skills & Experience
 
-- 👨‍💻 **Developer @ Kosovo Security Force (FSK)**  
-  Designed and maintained secure internal software solutions for military-grade networks.
-
 - 🔐 **Offline Systems Expertise**  
   Specialized in building **air-gapped**, **offline-first** tools and systems for restricted environments.
+
+- 🔐 **LDAP Authentication Integration**  
+  Created secure login systems using **Active Directory / LDAP**, allowing users to authenticate without storing local passwords — verifying access via real-time directory check for maximum security.
 
 - 🖥️ **Windows Server & IIS Administration**  
   Hands-on experience with deployment, SSL configuration, routing, and Windows Server security hardening.
@@ -79,9 +69,6 @@ Welcome! This is my central portfolio showcasing modular, stack-based projects a
 
 - 🔄 **Secure API & Microservices**  
   Proficient in REST API development with authentication, validation, and internal-only service orchestration.
-
-- ⚙️ **DevOps & Automation**  
-  Creating pipelines for **both online and offline CI/CD**, including containerized and script-based deployments.
 
 - 📊 **Custom Monitoring**  
   Built tools like **MonPro** to monitor server health, SSL certificates, and network access without cloud reliance.
