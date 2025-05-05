@@ -38,6 +38,15 @@ Welcome! This is my central portfolio showcasing modular, stack-based projects a
 
 ---
 
+## 🛠 Other Tools & DevOps
+
+|  🔢 | Module                        | Description                          | Link                                              |
+| :-: | :---------------------------- | :----------------------------------- | :------------------------------------------------ |
+| 1️⃣ | **DevOps Automation**         | Docker, GitHub Actions, CI/CD        | [GitHub](https://github.com/deephugo/devops-automation)  |
+| 2️⃣ | **Binance HugoBot**           | Crypto trading bot with ML & CLI     | [GitHub](https://github.com/deephugo/HugoBot)            |
+
+---
+
 ## ⚙️ Technologies Used
 
 | Category       | Tools & Technologies                                                                 |
@@ -47,7 +56,8 @@ Welcome! This is my central portfolio showcasing modular, stack-based projects a
 | **UI**         | Blazor WebAssembly, Tailwind CSS, Bootstrap, Vue.js                                  |
 | **Database**   | SQL Server, MySQL, PostgreSQL, SQLite, MongoDB                                       |
 | **DevOps**     | Docker, GitHub Actions, Bash Scripts, CI/CD Pipelines                                |
-| **Servers**    | IIS, Apache, NGINX                                                                   |
+| **Servers**    | IIS, Apache, NGINX, Windows Server, Ubuntu                                            |
+| **Cloud**      | Azure App Service, Azure SQL, Azure Static Web Apps, DigitalOcean                    |
 | **Security**   | JWT Auth, OAuth2, LDAP Authentication, Laravel Sanctum, Secure Device Locking        |
 | **Monitoring** | MonPro (custom), Windows Event Viewer, Network Diagnostics Tools                     |
 
@@ -55,26 +65,29 @@ Welcome! This is my central portfolio showcasing modular, stack-based projects a
 
 ## 🛡️ Skills & Experience
 
-- 🔐 **Offline Systems Expertise**  
-  Specialized in building **air-gapped**, **offline-first** tools and systems for restricted environments.
+- 👨‍💻 **Lead Full‑Stack Developer @ Kosovo Security Force (FSK)**  
+  Over 5 years building secure, scalable, and offline‑capable systems for internal military use. Delivered full‑stack solutions using Laravel, Node.js, React, and SQL Server — hosted on IIS and Windows Server, adhering to military-grade deployment protocols.
 
-- 🔐 **LDAP Authentication Integration**  
-  Created secure login systems using **Active Directory / LDAP**, allowing users to authenticate without storing local passwords — verifying access via real-time directory check for maximum security.
+- 🔐 **LDAP-Based Authentication Systems**  
+  Designed authentication flows that validate users against **Active Directory/LDAP**, allowing secure access without saving credentials in the local database — ideal for closed, secure environments.
 
-- 🖥️ **Windows Server & IIS Administration**  
-  Hands-on experience with deployment, SSL configuration, routing, and Windows Server security hardening.
+- 🛠️ **System Architect @ GJEJ.COM**  
+  Solely built and deployed a nationwide marketplace platform using React, Laravel, and MySQL. Designed the full infrastructure and CI/CD for scalable performance.
 
-- 🧩 **Modular Architecture**  
-  Skilled in organizing systems as reusable modules across stacks — .NET, Laravel, Node.js.
+- 🖥️ **Server & Deployment Expertise**  
+  Experienced with **Windows Server, IIS, NGINX, SSL setup**, and offline/air-gapped environments. Developed secure apps with Docker (basic) and Git-based pipelines.
 
-- 🔄 **Secure API & Microservices**  
-  Proficient in REST API development with authentication, validation, and internal-only service orchestration.
+- 🧩 **Modular Full‑Stack Development**  
+  Skilled in architecting reusable, modular components across stacks — Blazor/.NET, Laravel, and Node.js — with an emphasis on maintainability and testability.
 
-- 📊 **Custom Monitoring**  
-  Built tools like **MonPro** to monitor server health, SSL certificates, and network access without cloud reliance.
+- ⚙️ **Workflow Automation & Internal Tools**  
+  Automated military and enterprise workflows, cutting down manual labor and enabling internal departments to operate more efficiently using custom-built dashboards.
 
-- 📦 **ML & Smart Logic**  
-  Integrated basic machine learning models (e.g., HugoBot trading decisions) for data-driven automation.
+- 🎖️ **Military Coin of Honor**  
+  Awarded by the **General of the Kosovo Security Force** for delivering impactful digital solutions, improving operational efficiency, and advancing technical capabilities within the force.
+
+- 🌍 **Client-Facing Full Stack Development**  
+  Built and deployed secure web solutions for international clients under tight deadlines — specializing in dashboards, APIs, and eCommerce systems with Laravel and React.
 
 ---
 
